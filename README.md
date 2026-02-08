@@ -214,4 +214,10 @@ MIT License
 
 ---
 
+## 📋 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version history and changes.
+
+---
+
 **Made with ❤️ for Clawdbot**
