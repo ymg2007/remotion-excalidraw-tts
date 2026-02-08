@@ -1,0 +1,205 @@
+{
+  "title": "示例视频 - 手绘风格教程",
+  "duration": 45,
+  "scenes": [
+    {
+      "id": "intro",
+      "duration": 10,
+      "title": "欢迎",
+      "elements": [
+        {
+          "type": "text",
+          "content": "欢迎来到",
+          "x": 400,
+          "y": 150,
+          "fontSize": 72,
+          "color": "#1a1a1a"
+        },
+        {
+          "type": "text",
+          "content": "手绘风格视频教程",
+          "x": 300,
+          "y": 250,
+          "fontSize": 56,
+          "color": "#e03131"
+        }
+      ],
+      "voiceover": "欢迎来到手绘风格视频教程。让我们一起学习如何创建精彩的动画内容。"
+    },
+    {
+      "id": "concept",
+      "duration": 15,
+      "title": "核心概念",
+      "elements": [
+        {
+          "type": "rectangle",
+          "x": 150,
+          "y": 150,
+          "width": 200,
+          "height": 150,
+          "strokeColor": "#1e88e5",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "Remotion",
+          "x": 175,
+          "y": 220,
+          "fontSize": 32,
+          "color": "#1e88e5"
+        },
+        {
+          "type": "rectangle",
+          "x": 450,
+          "y": 150,
+          "width": 200,
+          "height": 150,
+          "strokeColor": "#43a047",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "Excalidraw",
+          "x": 465,
+          "y": 220,
+          "fontSize": 28,
+          "color": "#43a047"
+        },
+        {
+          "type": "rectangle",
+          "x": 750,
+          "y": 150,
+          "width": 200,
+          "height": 150,
+          "strokeColor": "#e03131",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "TTS",
+          "x": 820,
+          "y": 220,
+          "fontSize": 36,
+          "color": "#e03131"
+        },
+        {
+          "type": "arrow",
+          "x1": 350,
+          "y1": 225,
+          "x2": 450,
+          "y2": 225,
+          "strokeColor": "#333333",
+          "strokeWidth": 3
+        },
+        {
+          "type": "arrow",
+          "x1": 650,
+          "y1": 225,
+          "x2": 750,
+          "y2": 225,
+          "strokeColor": "#333333",
+          "strokeWidth": 3
+        }
+      ],
+      "voiceover": "我们的系统由三个核心组件组成：Remotion 负责视频渲染，Excalidraw 提供手绘风格，而 TTS 自动生成语音。"
+    },
+    {
+      "id": "flow",
+      "duration": 20,
+      "title": "工作流程",
+      "elements": [
+        {
+          "type": "circle",
+          "x": 150,
+          "y": 200,
+          "radius": 50,
+          "strokeColor": "#ff9800",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "1",
+          "x": 180,
+          "y": 220,
+          "fontSize": 48,
+          "color": "#ff9800"
+        },
+        {
+          "type": "circle",
+          "x": 450,
+          "y": 200,
+          "radius": 50,
+          "strokeColor": "#ff9800",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "2",
+          "x": 480,
+          "y": 220,
+          "fontSize": 48,
+          "color": "#ff9800"
+        },
+        {
+          "type": "circle",
+          "x": 750,
+          "y": 200,
+          "radius": 50,
+          "strokeColor": "#ff9800",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "3",
+          "x": 780,
+          "y": 220,
+          "fontSize": 48,
+          "color": "#ff9800"
+        },
+        {
+          "type": "arrow",
+          "x1": 200,
+          "y1": 250,
+          "x2": 450,
+          "y2": 250,
+          "strokeColor": "#333333",
+          "strokeWidth": 3
+        },
+        {
+          "type": "arrow",
+          "x1": 500,
+          "y1": 250,
+          "x2": 750,
+          "y2": 250,
+          "strokeColor": "#333333",
+          "strokeWidth": 3
+        },
+        {
+          "type": "text",
+          "content": "编写脚本",
+          "x": 120,
+          "y": 300,
+          "fontSize": 24,
+          "color": "#666666"
+        },
+        {
+          "type": "text",
+          "content": "生成视频",
+          "x": 420,
+          "y": 300,
+          "fontSize": 24,
+          "color": "#666666"
+        },
+        {
+          "type": "text",
+          "content": "添加配音",
+          "x": 720,
+          "y": 300,
+          "fontSize": 24,
+          "color": "#666666"
+        }
+      ],
+      "voiceover": "使用我们的工具，只需三个简单步骤：编写脚本、生成视频、添加配音，就能快速创建专业的手绘风格动画视频。"
+    }
+  ]
+}
